@@ -43,6 +43,10 @@ Building high-performance systems from the Linux kernel up to the pixel. Trusted
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-000000?style=for-the-badge&logo=robot&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-800080?style=for-the-badge&logo=sparkles&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-1E90FF?style=for-the-badge&logo=codeium&logoColor=white)
+![Orchids](https://img.shields.io/badge/Orchids-DA70D6?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ---
 
